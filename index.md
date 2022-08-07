@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Business analytics, data analysis, reporting, communication tips
 
-TESTTESTTEST
+Sharing my passion to data and clear&easy visualisations. 
+I'm here to inspire and share my love for graphs and reports. This will tremendously help you when making decisions based on real data, rather than on experience, or assumptions. 
 
-You can use the [editor on GitHub](https://github.com/yanagh/yanagh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Here are some of my current works
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+kaggle link with the coolest parts
 
-### Markdown
+some of the best pieces of code will be below
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```
+pieces of code
+```
 
 # Header 1
 ## Header 2
